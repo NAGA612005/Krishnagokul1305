@@ -2,7 +2,7 @@
 
 # 👨‍💻 About Me
 
-**Hi there!** I'm **Naga Deepak**, a passionate **Python and AI/ML Developer**. I specialize in building intelligent systems and web solutions using Python, with hands-on experience in **GenAI**,**Machine Learning**, **RAG (Retrieval-Augmented Generation)**, and software testing tools. I also work with **SQL** for database management and use tools like **Figma** and **Canva** for UI/UX design and prototyping. I enjoy solving real-world problems with clean, scalable, and creative tech solutions.
+**Hi there!** I'm **Naga Deepak**, a passionate **Python and AI/ML Developer**. I specialize in building intelligent systems and web solutions using Python, with hands-on experience in **GenAI**, **RAG (Retrieval-Augmented Generation)**, and software testing tools. I also work with **SQL** for database management and use tools like **Figma** and **Canva** for UI/UX design and prototyping. I enjoy solving real-world problems with clean, scalable, and creative tech solutions.
 
 </div>
 
@@ -40,15 +40,15 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Krishnagokul1305&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=NAGA612005&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnagokul1305&theme=dark&hide_border=false" alt="GitHub Streak"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=NAGA612005&theme=dark&hide_border=false" alt="GitHub Streak"/>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnagokul1305&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAGA612005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
     </td>
   </tr>
 </table>
